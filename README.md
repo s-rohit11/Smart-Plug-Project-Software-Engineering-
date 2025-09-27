@@ -15,7 +15,11 @@ The solution provides real-time usage data and visualizations to help users opti
 - **Scrum Master**: Directed a 9-member team, organizing sprints, managing deliverables, and ensuring on-time project delivery.  
 - **System Documentation**: Produced detailed design reports and diagrams showcasing the solution architecture.  
 - **Marketing Strategy & Plan**: Developed a comprehensive marketing and adoption plan, outlining value proposition, target market, and go-to-market approach.  
-- **Presentation & Delivery**: Coordinated the final submission and received *exceptional faculty recognition* for leadership and execution.  
+- **Presentation & Delivery**: Coordinated the final submission and received *exceptional faculty recognition* for leadership and execution.
+
+## 📄 Project Report
+You can view the final project report here:  
+[Smart Plug Final Report (PDF)](docs/Final%20Report.pdf)
 
 ## Disclaimer
 This project was co-developed as part of a group coursework by 9 students.  
